@@ -48,6 +48,8 @@
     <Content Include="spanish.html" />
     <Content Include="more2.html" />
     <Content Include="english.html" />
+    <Content Include="chinese.html" />
+    <Content Include="more3.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
