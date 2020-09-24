@@ -44,6 +44,7 @@
     <Content Include="Web.config" />
     <Content Include="Global.asax" />
     <Content Include="index.html" />
+    <Content Include="more.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
