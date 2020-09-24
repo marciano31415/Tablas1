@@ -1,0 +1,6 @@
+/Users/leo/Projects/Tablas1/Tablas1/bin/Tablas1.dll
+/Users/leo/Projects/Tablas1/Tablas1/bin/Tablas1.pdb
+/Users/leo/Projects/Tablas1/Tablas1/obj/Debug/Tablas1.csprojAssemblyReference.cache
+/Users/leo/Projects/Tablas1/Tablas1/obj/Debug/Tablas1.csproj.CoreCompileInputs.cache
+/Users/leo/Projects/Tablas1/Tablas1/obj/Debug/Tablas1.dll
+/Users/leo/Projects/Tablas1/Tablas1/obj/Debug/Tablas1.pdb

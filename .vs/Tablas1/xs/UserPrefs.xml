@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0E7BF4D3-E0A2-40A9-9E02-2B74A15B0738}|">
+  <MonoDevelop.Ide.ItemProperties.Tablas1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tablas1/index.html">
+    <Files>
+      <File FileName="Tablas1/index.html" Line="7" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tablas1" expanded="True">
+            <Node name="Tablas1" expanded="True">
+              <Node name="index.html" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
