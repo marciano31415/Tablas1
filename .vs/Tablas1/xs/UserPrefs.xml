@@ -1,17 +1,20 @@
 ﻿<Properties StartupConfiguration="{0E7BF4D3-E0A2-40A9-9E02-2B74A15B0738}|">
   <MonoDevelop.Ide.ItemProperties.Tablas1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tablas1/english.html">
     <Files>
-      <File FileName="Tablas1/index.html" Line="24" Column="41" />
-      <File FileName="Tablas1/more.html" Line="21" Column="6" />
+      <File FileName="Tablas1/index.html" Line="12" Column="39" />
+      <File FileName="Tablas1/more.html" Line="10" Column="10" />
       <File FileName="Tablas1/obj/Debug/Tablas1.csprojAssemblyReference.cache" Line="2" Column="1" />
+      <File FileName="Tablas1/spanish.html" Line="5" Column="33" />
+      <File FileName="Tablas1/more2.html" Line="5" Column="31" />
+      <File FileName="Tablas1/english.html" Line="5" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Tablas1" expanded="True">
             <Node name="Tablas1" expanded="True">
-              <Node name="index.html" selected="True" />
+              <Node name="english.html" selected="True" />
             </Node>
           </Node>
         </State>

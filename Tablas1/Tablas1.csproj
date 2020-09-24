@@ -45,6 +45,9 @@
     <Content Include="Global.asax" />
     <Content Include="index.html" />
     <Content Include="more.html" />
+    <Content Include="spanish.html" />
+    <Content Include="more2.html" />
+    <Content Include="english.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
